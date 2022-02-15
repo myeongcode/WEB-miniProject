@@ -271,6 +271,5 @@ span {
   border-radius: 20px;
   opacity: 0;
   background-color: rgb(255, 255, 255);
-  transform: translateX(583px) translateY(708px);
   transition: all 1s;
 }

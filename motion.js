@@ -165,11 +165,9 @@ $(window).scroll(function() {
     if(windows > 4000){
         $('.money-bg').css('opacity','1');
         $('.money-bg').css('padding','100%');
-        $('.money-bg').css('transform','translateX(0px) translateY(0px)');
     } else {
         $('.money-bg').css('opacity','0');
-        $('.money-bg').css('padding','0');
-        $('.money-bg').css('transform','translateX(583px) translateY(708px)');
+        $('.money-bg').css('padding','0%');
     }
 
     if(windows > 4500) {
